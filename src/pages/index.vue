@@ -1,7 +1,7 @@
 <template>
 	<div style="height:100%;">
 		<div style="position: fixed;top:0;width:100%;z-index:999;">
-			<x-header slot="header" :left-options="leftOptions" :title="title"></x-header>
+			<x-header slot="header" :left-options="leftOptions" :title="title" ></x-header>
 		</div>
 		<div style="margin-top: 46px;">
 			<keep-alive>
@@ -100,8 +100,8 @@
 		computed: {
 			leftOptions () {
 				var status = false
-				if (this.$route.path === '/' || this.$route.path === '/mov') {
-					status = false
+				if (this.$route.path === '/detail' ) {
+					status = true
 				}
 				return {
 					showBack: status
@@ -117,6 +117,12 @@
 </script>
 
 <style scoped>
-
+	.vux-header .vux-header-title {
+		line-height: 40px;
+		text-align: center;
+		font-size: 18px;
+		font-weight: 400;
+		color: #000000;
+	}
 </style>
 

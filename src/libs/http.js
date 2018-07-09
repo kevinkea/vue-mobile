@@ -2,13 +2,15 @@ import axios from 'axios'
 let userAgentInfo = navigator.userAgent
 let isiOS = !!userAgentInfo.match(/\(i[^;]+;( U;)? CPU.+Mac OS X/) // ios终端
 let http = axios.create({
-  baseURL: process.env.BASE_API + '/api/',
+  baseURL: process.env.BASE_API,
   timeout: 10000,
   headers: {
-    'Accept': 'application/json',
-    'Authorization': 'Bearer ',
-    'InUrl': location.href,
-    'IsIos': isiOS
+    'Accept': 'application/json, text/javascript, */*; q=0.01',
+	// 'Access-Control-Allow-Origin': '*',
+	// 'Access-Control-Allow-Methods':'GET',
+    'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'
+    // 'HOST': 'movie.miguvideo.com',
+    // 'IsIos': isiOS
   }
 })
 export default {

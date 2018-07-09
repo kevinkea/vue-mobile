@@ -47,6 +47,15 @@ export const constantRouterMap = [
 				name: 'mine',
 				component: () => import('@/pages/mine/index'),
 				meta: {title: '我的', keepAlive: true}
+			},
+			{
+				path: '/detail',
+				name: 'detail',
+				component: () => import('@/pages/find/detail'),
+				meta: {
+					title: '新闻详情',
+					keepAlive: false
+				}
 			}
 		]
 	},

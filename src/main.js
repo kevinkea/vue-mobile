@@ -9,7 +9,7 @@ import VueRouter from 'vue-router'
 import FastClick from 'fastclick'
 import Navigation from 'vue-navigation'
 // // import 'lib-flexible/flexible'
-//
+import axios from 'axios'
 import http from './libs/http'
 import sess from './libs/sess'
 import { AlertPlugin, ToastPlugin, LoadingPlugin, ConfirmPlugin, WechatPlugin } from 'vux'
@@ -20,6 +20,8 @@ Vue.use(ToastPlugin)
 Vue.use(LoadingPlugin)
 Vue.use(ConfirmPlugin)
 Vue.use(WechatPlugin)
+
+Vue.prototype.$axios = axios
 
 Vue.prototype.$sess = sess
 Vue.prototype.$http = http

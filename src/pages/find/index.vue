@@ -1,37 +1,49 @@
 <template>
 	<div>
-		<swiper loop auto :list="demo07_list" :index="demo07_index" @on-index-change="demo07_onIndexChange"></swiper>
-		<grid :show-vertical-dividers="false">
-			<grid-item v-for="i in 5" :key="i">
-				<img slot="icon" src="../../assets/icon/play-his.png">
-				<span slot="label">{{ i }}</span>
+		<swiper loop auto height="160px">
+			<swiper-item class="swiper-img" v-for="(item, index) in swiptList.list" :key="index">
+				<img :src="'http://movie.miguvideo.com/publish/i_www'+item.imgSrc">
+			</swiper-item>
+		</swiper>
+		<grid :show-vertical-dividers="false" >
+			<grid-item v-for="(item, index) in enterList.list" :key="index">
+				<img slot="icon" :src="'http://movie.miguvideo.com/publish/i_www'+item.imgSrc">
+				<span slot="label">{{ item.name }}</span>
 			</grid-item>
 		</grid>
+		<group >
+			<cell :title="'商城'" is-link></cell>
+			<scroller lock-y :scrollbar-x=false>
+				<div class="box1">
+					<div class="box1-item" v-for="(item, index) in productList.list" :key="index">
+						<img slot="icon" :src="'http://movie.miguvideo.com/publish/i_www'+item.imgSrc">
+						<!--<span slot="label">{{ item.name }}</span>-->
+					</div>
+				</div>
+			</scroller>
+			<!--<grid :show-vertical-dividers="false">-->
+				<!--<grid-item v-for="(item, index) in productList.list" :key="index">-->
+					<!--<img slot="icon" :src="'http://movie.miguvideo.com/publish/i_www'+item.imgSrc">-->
+					<!--<span slot="label">{{ item.name }}</span>-->
+				<!--</grid-item>-->
+			<!--</grid>-->
+		</group>
+		<!--<group >-->
+			<!--<cell :title="'话题'" is-link></cell>-->
+
+		<!--</group>-->
+		<group >
+			<cell :title="'资讯'" is-link></cell>
+			<template v-for="(item,index) in infoList.list">
+				<item :item="item" :key="index" />
+			</template>
+		</group>
 	</div>
 </template>
 
 <script>
-	import { Swiper, SwiperItem, Grid, GridItem, GroupTitle } from 'vux'
-
-	const baseList = [{
-		url: 'javascript:',
-		img: 'https://ww1.sinaimg.cn/large/663d3650gy1fq66vvsr72j20p00gogo2.jpg',
-		title: '送你一朵fua'
-	}, {
-		url: 'javascript:',
-		img: 'https://ww1.sinaimg.cn/large/663d3650gy1fq66vw1k2wj20p00goq7n.jpg',
-		title: '送你一辆车'
-	}, {
-		url: 'javascript:',
-		img: 'https://static.vux.li/demo/5.jpg', // 404
-		title: '送你一次旅行',
-		fallbackImg: 'https://ww1.sinaimg.cn/large/663d3650gy1fq66vw50iwj20ff0aaaci.jpg'
-	}]
-
-	const only2ClickList = baseList.slice(0, 2).map(item => {
-		item.url = 'http://m.baidu.com'
-		return item
-	})
+	import Item from './item'
+	import { Swiper, SwiperItem, Scroller, Panel, Cell, Grid, GridItem, Group, GroupTitle } from 'vux'
 
 	export default {
 		components: {
@@ -39,21 +51,46 @@
 			GridItem,
 			GroupTitle,
 			Swiper,
-			SwiperItem
+			SwiperItem,
+			Group,
+			Scroller,
+			Panel,
+			Cell,
+			Item
+		},
+		data(){
+			return{
+				commonList:[],
+				swiptList:[],
+				enterList:[],
+				productList:[],
+				infoList:[],
+				talkList:[],
+				allData:[]
+			}
+		},
+		mounted(){
+			this.getSwiperList()
 		},
 		methods: {
 			onItemClick () {
 				console.log('on item click')
 			},
-			demo07_onIndexChange (index) {
-				this.demo07_index = index
+			getSwiperList() {
+				this.$axios.get("../../../static/find_index.js").then(response => {
+					this.allData = response.data
+					this.swiptList = this.allData[0]
+					this.enterList = this.allData[1]
+					this.productList = this.allData[2]
+					this.commonList = this.allData[3].list
+					this.talkList = this.commonList[0].picList
+					this.infoList = this.talkList[0]
+					console.log(this.talkList)
+				}).catch(function(err) {
+					console.log(err)
+				})
 			}
-		},
-		data(){
-			return{
-				demo07_index: 0,
-				demo07_list: only2ClickList
-			}
+
 		}
 	}
 </script>
@@ -109,10 +146,33 @@
 			transform: none;
 		}
 	}
+	.box1 {
+		height: 100px;
+		position: relative;
+		width: 900px;
+		padding-bottom: 30px;
+	}
+	.box1-item img{
+		width: 200px;
+		height: 100px;
+		background-color: #ccc;
+		display:inline-block;
+		margin-left: 15px;
+		float: left;
+		text-align: center;
+		line-height: 100px;
+	}
+	.box1-item:first-child {
+		margin-left: 0;
+	}
+	.box2-wrap {
+		height: 300px;
+		overflow: hidden;
+	}
 	.fadeInUp {
 		animation-name: fadeInUp;
 	}
-	.swiper-demo-img img {
+	.swiper-img img {
 		width: 100%;
 	}
 	.grid-center {
