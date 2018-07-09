@@ -3,7 +3,7 @@
 		<tab :line-width=2 active-color='#fc378c' v-model="index">
 			<tab-item class="vux-center" :selected="demo2 === item" v-for="(item, index) in list2" @click="demo2 = item" :key="index">{{item}}</tab-item>
 		</tab>
-		<swiper v-model="index" height="100px" :show-dots="false">
+		<swiper v-model="index" :show-dots="false">
 			<swiper-item v-for="(item, index) in list2" :key="index">
 				<div class="tab-swiper vux-center">{{item}} Container</div>
 			</swiper-item>
