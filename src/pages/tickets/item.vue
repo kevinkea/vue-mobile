@@ -1,5 +1,5 @@
 <template>
-	<div class="loop-List" @click="$router.push({name:'filmName',query:{id:item.filmId}})">
+	<div class="loop-List" @click="$router.push({name:'content',query:{id:item.filmId}})">
 		<div class="film-Intro clearfix">
 			<div class="film-Pic pull-left">
 				<img class="lazy" :src="'http://movie.miguvideo.com/' + item.picAddr" style=""></div>

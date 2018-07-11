@@ -100,7 +100,7 @@
 		computed: {
 			leftOptions () {
 				var status = false
-				if (this.$route.path === '/detail' ) {
+				if (this.$route.path === '/detail' || this.$route.path === '/content') {
 					status = true
 				}
 				return {

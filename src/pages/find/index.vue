@@ -21,17 +21,7 @@
 					</div>
 				</div>
 			</scroller>
-			<!--<grid :show-vertical-dividers="false">-->
-				<!--<grid-item v-for="(item, index) in productList.list" :key="index">-->
-					<!--<img slot="icon" :src="'http://movie.miguvideo.com/publish/i_www'+item.imgSrc">-->
-					<!--<span slot="label">{{ item.name }}</span>-->
-				<!--</grid-item>-->
-			<!--</grid>-->
 		</group>
-		<!--<group >-->
-			<!--<cell :title="'话题'" is-link></cell>-->
-
-		<!--</group>-->
 		<group >
 			<cell :title="'资讯'" is-link></cell>
 			<template v-for="(item,index) in infoList.list">

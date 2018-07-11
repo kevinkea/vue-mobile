@@ -34,7 +34,7 @@ export const constantRouterMap = [
 				path: '/tickets',
 				name: 'tickets',
 				component: () => import('@/pages/tickets/index'),
-				meta: {title: '购票', keepAlive: true}
+				meta: {title: '购票', keepAlive: true},
 			},
 			{
 				path: '/find',
@@ -47,6 +47,15 @@ export const constantRouterMap = [
 				name: 'mine',
 				component: () => import('@/pages/mine/index'),
 				meta: {title: '我的', keepAlive: true}
+			},
+			{
+				path: '/content',
+				name: 'content',
+				component: () => import('@/pages/tickets/content'),
+				meta: {
+					title: '电影详情',
+					keepAlive: false
+				}
 			},
 			{
 				path: '/detail',

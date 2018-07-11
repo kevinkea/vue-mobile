@@ -1,10 +1,10 @@
 <template>
 	<div>
-		<tab :line-width=2 active-color='#fc378c' v-model="index">
-			<tab-item class="vux-center" :selected="demo2 === item" v-for="(item, index) in list2" @click="demo2 = item" :key="index">{{item}}</tab-item>
+		<tab :line-width=2 v-model="index">
+			<tab-item class="vux-center" :selected="first === item" v-for="(item, index) in list" @click="first = item" :key="index">{{item}}</tab-item>
 		</tab>
-		<swiper v-model="index" :show-dots="false">
-			<swiper-item v-for="(item, index) in list2" :key="index">
+		<swiper v-model="index" :show-dots="false" :style="'height:1800px;'" height="100%">
+			<swiper-item v-for="(item, index) in list" :key="index">
 				<div class="tab-swiper vux-center">{{item}} Container</div>
 			</swiper-item>
 		</swiper>
@@ -23,13 +23,30 @@
 		},
 		data () {
 			return {
-				list2: list(),
-				demo2: '美食',
+				list: list(),
+				datalist:[],
+				swiptList:[],
+				salesList:[],
+				first: '推荐',
 				index: 0,
+				height:0,
 			}
 		},
+		mounted(){
+			this.getData()
+		},
 		methods: {
+			getData(){
+				this.$axios.get("../../../static/film_recommend.js").then(response => {
+					this.datalist = response.data
+					this.swiptList = this.datalist[0]
+					this.salesList = this.datalist[1]
+					this.height = this.swiptList.length * 18.1
+				}).catch(function(err) {
+					console.log(err)
+				})
 
+			}
 		}
 	}
 </script>
