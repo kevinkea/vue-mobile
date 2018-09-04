@@ -25,7 +25,7 @@
 <script>
 	import Item from './item'
 
-	import {indexfilm} from '@/api/mov'
+	// import {indexfilm} from '@/api/mov'
 	import { Tab, TabItem, Panel, Swiper, SwiperItem, Sticky } from 'vux'
 	// const tabList = () => ['正在热映', '正在上映']
 	export default {

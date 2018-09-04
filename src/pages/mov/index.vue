@@ -1,20 +1,39 @@
 <template>
 	<div>
-		<tab :line-width=2 v-model="index">
-			<tab-item class="vux-center" :selected="first === item" v-for="(item, index) in list" @click="first = item" :key="index">{{item}}</tab-item>
-		</tab>
-		<swiper v-model="index" :show-dots="false" :style="'height:1800px;'" height="100%">
-			<swiper-item v-for="(item, index) in list" :key="index">
-				<div class="tab-swiper vux-center">{{item}} Container</div>
-			</swiper-item>
-		</swiper>
+		<sticky :check-sticky-support="false">
+			<tab :line-width=2 v-model="index">
+				<tab-item class="vux-center" :selected="first === item" v-for="(item, index) in list"  @on-item-click="onItemClick" :key="index">{{item}}</tab-item>
+			</tab>
+		</sticky>
+		<keep-alive>
+			<component :is="current"></component>
+		</keep-alive>
+		<!--<swiper v-model="index" :show-dots="false" height="1080px">-->
+			<!--<swiper-item v-for="(item, index) in list" :key="index">-->
+				<!--<div class="tab-swiper vux-center">{{item}} Container</div>-->
+			<!--</swiper-item>-->
+		<!--</swiper>-->
 	</div>
 </template>
 <script>
-	import { Tab, TabItem, Divider, Swiper, SwiperItem } from 'vux'
+
+	// 导入子组件
+	import recommend from '@/components/Recommend';
+	import clist from '@/components/List';
+	import cview from '@/components/View';
+	import cvideo from '@/components/Video';
+	import comment from '@/components/Comment';
+
+	import { Sticky, Tab, TabItem, Divider, Swiper, SwiperItem } from 'vux'
 	const list = () => ['推荐', '看片', '影单', '小视频', '影评']
 	export default {
 		components: {
+			recommend,
+			comment,
+			clist,
+			cview,
+			cvideo,
+			Sticky,
 			Tab,
 			TabItem,
 			Divider,
@@ -29,23 +48,30 @@
 				salesList:[],
 				first: '推荐',
 				index: 0,
-				height:0,
+				current:recommend,
+				height:''
 			}
 		},
 		mounted(){
-			this.getData()
+			//this.getData()
+		},
+		created(){
+
 		},
 		methods: {
-			getData(){
-				this.$axios.get("../../../static/film_recommend.js").then(response => {
-					this.datalist = response.data
-					this.swiptList = this.datalist[0]
-					this.salesList = this.datalist[1]
-					this.height = this.swiptList.length * 18.1
-				}).catch(function(err) {
-					console.log(err)
-				})
-
+			onItemClick (index) {
+				console.log('on item click:', index)
+				if(index === 0){
+					this.current = recommend
+				}else if(index === 1){
+					this.current = cview
+				}else if(index === 2){
+					this.current = clist
+				}else if(index === 3){
+					this.current = cvideo
+				}else if(index === 4){
+					this.current = comment
+				}
 			}
 		}
 	}
@@ -71,6 +97,6 @@
 }
 .tab-swiper {
 	background-color: #fff;
-	height: 100px;
+	height: 100%;
 }
 </style>

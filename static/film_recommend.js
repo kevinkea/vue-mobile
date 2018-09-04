@@ -1,3 +1,4 @@
+
 [
 
 	{
@@ -15,16 +16,16 @@
 		"list":[
 
 			{
-				"name":"专题：我不是药神",
+				"name":"专题：碟中谍6",
 				"LONG_NAME":"",
 				"SRC_CONT_ID":"",
 				"REDREICT_ID":"",
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"/image/70/382/732.jpg",
-				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=70059776",
-				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70059776",
+				"imgSrc":"/image/70/430/458.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=70064088",
+				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70064088",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -45,16 +46,16 @@
 				]
 			},
 			{
-				"name":"专题：邪不压正",
+				"name":"专题：阿尔法狼伴归途",
 				"LONG_NAME":"",
 				"SRC_CONT_ID":"",
 				"REDREICT_ID":"",
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"/image/70/381/692.jpg",
-				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=70060028",
-				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70060028",
+				"imgSrc":"/image/70/431/311.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=70064852",
+				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70064852",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -75,46 +76,16 @@
 				]
 			},
 			{
-				"name":"话题：邪不压正",
+				"name":"专题：上海电影节",
 				"LONG_NAME":"",
 				"SRC_CONT_ID":"",
 				"REDREICT_ID":"",
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"/image/70/382/612.jpg",
-				"wapUrl":"https://movie.miguvideo.com/lovev/subject/themeDetails.jsp?topicId=4666",
-				"goodsUrl":"/publish/clt/resource/migumovie4/topic/topicDetails.jsp?nodeId=4666",
-
-				"JB_TYPE":"",
-				"Detail":"",
-				"time":"",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"影单：最近十年的暑期档",
-				"LONG_NAME":"",
-				"SRC_CONT_ID":"",
-				"REDREICT_ID":"",
-				"miguScore":"7.0",
-				"imgSrcV":"",
-				"imgSrcH":"",
-				"imgSrc":"/image/70/383/183.jpg",
-				"wapUrl":"http://movie.miguvideo.com/lovev/subject/subject.jsp?n=70060289",
-				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70060289",
+				"imgSrc":"/image/70/431/726.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/subject/subject.jsp?n=70056598",
+				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70056598",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -142,69 +113,9 @@
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"/image/70/382/770.jpg",
-				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=643235139",
-				"goodsUrl":"/publish/clt/resource/migumovie4/news/atlasNewsDetail.jsp?nodeId=643235139",
-
-				"JB_TYPE":"",
-				"Detail":"",
-				"time":"",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"世界杯球员",
-				"LONG_NAME":"",
-				"SRC_CONT_ID":"",
-				"REDREICT_ID":"",
-				"miguScore":"7.0",
-				"imgSrcV":"",
-				"imgSrcH":"",
-				"imgSrc":"/image/70/364/649.jpg",
-				"wapUrl":"https://dev.10086.cn/rwk/showDayFlow.action?channelId=C10000001647&channelSeqId=AP20180113123702154126349&pageType=SIMPLEWAPV&fromID=111",
-				"goodsUrl":"https://dev.10086.cn/rwk/showDayFlow.action?channelId=C10000001647&channelSeqId=AP20180113123702154126349&pageType=SIMPLEWAPV&fromID=111",
-
-				"JB_TYPE":"",
-				"Detail":"",
-				"time":"",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"演出：许嵩金玟岐歌友会",
-				"LONG_NAME":"",
-				"SRC_CONT_ID":"",
-				"REDREICT_ID":"",
-				"miguScore":"7.0",
-				"imgSrcV":"",
-				"imgSrcH":"",
-				"imgSrc":"/image/70/376/842.jpg",
-				"wapUrl":"https://movie.miguvideo.com/publish/i_www/resource/lovev/miguMovie/performTicket/appointment.jsp?productId=417139799",
-				"goodsUrl":"/publish/clt/resource/migumovie4/showTicket/showDetail.jsp?nodeId=417139799",
+				"imgSrc":"/image/70/431/279.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/subject/picDetail.jsp?cid=646221070",
+				"goodsUrl":"/publish/clt/resource/migumovie4/news/newsDetail.jsp?nodeId=646221070",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -232,9 +143,39 @@
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"/image/70/382/685.jpg",
-				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=643231247&cid=643231247",
-				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=643231247",
+				"imgSrc":"/image/70/430/746.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=646125177&cid=646125177",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=646125177",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"影单：最近十年的暑期档/test/",
+				"LONG_NAME":"",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/410/809.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/subject/subject.jsp?n=70063591",
+				"goodsUrl":"/publish/clt/resource/migumovie4/subject/subject2.jsp?nodeId=70063591",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -266,23 +207,23 @@
 		"imgSrc":"",
 
 		"SRC_CONT_ID":"",
-		"showCount":"11",
+		"showCount":"13",
 		"list":[
 
 			{
-				"name":"我不是药神",
-				"LONG_NAME":"徐峥宁浩五度联手",
-				"SRC_CONT_ID":"639439004",
+				"name":"碟中谍6",
+				"LONG_NAME":"阿汤哥搏命归来",
+				"SRC_CONT_ID":"638701601",
 				"REDREICT_ID":"",
-				"miguScore":"9.0",
-				"imgSrcV":"/publish/poms/image/5500/459/596/201805301539_13_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/459/596/201805301539_15_HSJ720H.jpg",
-				"imgSrc":"/image/70/378/616.gif",
+				"miguScore":"9.1",
+				"imgSrcV":"/publish/poms/image/5500/422/834/201808211430_0180821142807_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/422/834/201808211430_p2512716729_HSJ720H.jpg",
+				"imgSrc":"/image/70/430/875.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"一位不速之客的意外到访，打破了神油店老板程勇的平凡人生，他从一个交不起房租的男性保健品商贩，一跃成为印度仿制药“格列宁”的独家代理商。收获巨额利润的他，生活剧烈变化，被病患们冠以“药神”的称号。但是，一场关于救赎的拉锯战也在波涛暗涌中慢慢展开......",
+				"Detail":"有时好意会造成恶果，人反而被自己所造成的结果所困扰。伊桑·亨特（汤姆·克鲁斯）和他的IMF团队（亚历克·鲍德温、西蒙·佩吉、文·瑞姆斯）将在最新的电影《碟中谍6：全面瓦解》中再度回归，他们会与观众们熟悉的盟友（丽贝卡·弗格森、米歇尔·莫娜汉）一起与时间赛跑，应对一次任务中出现的意外。亨利·卡维尔、安吉拉·贝塞特和凡妮莎·柯比也将加入本片的演员阵容，电影制片人克里斯托夫·迈考利将会再度担任导演。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -300,19 +241,19 @@
 				]
 			},
 			{
-				"name":"动物世界",
-				"LONG_NAME":"李易峰赌命入局",
-				"SRC_CONT_ID":"631112414",
+				"name":"蚁人2",
+				"LONG_NAME":"黄蜂女惊艳亮相",
+				"SRC_CONT_ID":"638703557",
 				"REDREICT_ID":"",
-				"miguScore":"9.0",
-				"imgSrcV":"/publish/poms/image/5500/337/084/201801301310_2_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/337/084/201801301310_3_HSJ720H.jpg",
-				"imgSrc":"/image/70/381/767.jpg",
+				"miguScore":"9.1",
+				"imgSrcV":"/publish/poms/image/5500/422/924/201807311646_p2529389608_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/422/924/201807311646_p2529391934_HSJ720H.jpg",
+				"imgSrc":"/image/70/430/878.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"男主角郑开司，因为借给朋友钱而背负上了数百万债务。为偿还欠款，为了相依为命的植物人母亲、青梅竹马的刘青，他被迫上了一艘名为“命运号”的渡轮，为的是参加一次神秘赌局，一旦获胜，就能将欠款一笔勾销，人生也会发生改变。赌局规则看起来很简单，参与者须以标着“石头，剪刀，布”的扑克为道具，夺取对手身上的星星标志。然而在一群走投无路的赌徒面前，赌局中的任何一丝破绽都可以加以利用。开司接连遇到了落魄的魔术师张景坤、骗钱的朋友李军、临时伙伴孟小胖、私带钻石入场的刀疤脸等人。局中局、计中计，不断的反转令郑开司难以招架。其间折射出的人性残酷，俨然是社会的缩影。赌局最终成为一场猎杀，郑开司每时每刻都身处在穷途末路，凭借自己的智慧、坚韧游走于人性善恶的边缘，摆脱逆境。开司，必须生存下来……",
+				"Detail":"来自漫威电影宇宙的新片《蚁人2：黄蜂女现身》重点展现了两位超级英雄令人惊叹的收缩能力。继《美国队长3》的故事线之后，斯科特·朗迎来了自己作为超级英雄和孩子父亲的双重身份。一方面，他在背负着蚁人职责的同时努力过好自己的生活；另一方面，二代黄蜂女霍普·凡·戴恩和汉克·皮姆博士又向他传达了一项紧迫的新任务。斯科特必须再次穿上战衣，与黄蜂女并肩作战，共同破解来自过去的谜题。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -330,109 +271,19 @@
 				]
 			},
 			{
-				"name":"邪不压正",
-				"LONG_NAME":"民国特工 乱世复仇",
-				"SRC_CONT_ID":"638125368",
-				"REDREICT_ID":"",
-				"miguScore":"8.5",
-				"imgSrcV":"/publish/poms/image/5500/405/960/201807011405_1_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/405/960/201807011405_xbyz3_HSJ720H.jpg",
-				"imgSrc":"/image/70/383/515.jpg",
-				"wapUrl":"",
-				"goodsUrl":"",
-
-				"JB_TYPE":"",
-				"Detail":"北洋年间，北京以北。习武少年李天然目睹师兄朱潜龙勾结日本特务根本一郎，杀害师父全家。李天然侥幸从枪下逃脱，被美国医生亨德勒救下。李天然伤愈后，赴美学医多年，并同时接受特工训练。1937年初，李天然突然受命回国。“七七事变”前夜，北平，这座国际间谍之城，华洋混杂，山头林立。每时每刻充满诱惑与杀机。一心复仇的李天然，并不知道自己被卷入了一场阴谋，亦搅乱了一盘棋局。彼时彼刻，如同李小龙闯进了谍都卡萨布兰卡。前朝武人蓝青峰，神秘莫测，与朱潜龙、根本一郎关系紧密，更与亨德勒情同手足。是敌是友？面目不清。随着中日危机不断升级，各方博弈愈演愈烈。多次为谎言蛊惑、错失时机的李天然，终于下定决心，在红颜帮助下开启复仇行动。且看负有国恨家仇且智勇双全之李天然，如何荡涤这摊污泥浊水！",
-				"time":"0",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"新大头儿子和小头爸爸3",
-				"LONG_NAME":"俄罗斯奇遇记",
-				"SRC_CONT_ID":"639591393",
-				"REDREICT_ID":"",
-				"miguScore":"7.5",
-				"imgSrcV":"/publish/poms/image/5500/464/687/201804201050_1_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/464/687/201804201050_1_HSJ720H.jpg",
-				"imgSrc":"/image/70/381/765.jpg",
-				"wapUrl":"",
-				"goodsUrl":"",
-
-				"JB_TYPE":"",
-				"Detail":"小头爸爸带全家去俄罗斯出差，大头儿子在俄罗斯发现了自己画的白夜城是真实存在的，一家人半路遇到交通事故，被迫夜宿小旅馆，第二天醒来发现身处大头儿子画中的世界——白夜城。他们发现如果不解决白夜城中的危机便无法走出这个世界，一家人在白夜城中经历了重重困难终于回到了现实世界。",
-				"time":"0",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"阿修罗",
-				"LONG_NAME":"六年隐修 一朝出世",
-				"SRC_CONT_ID":"641027960",
-				"REDREICT_ID":"",
-				"miguScore":"9.0",
-				"imgSrcV":"/publish/poms/image/5500/273/876/201806011433_p2392691657_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/273/876/201806011433_p2350501618_HSJ720H.jpg",
-				"imgSrc":"/image/70/378/650.jpg",
-				"wapUrl":"",
-				"goodsUrl":"",
-
-				"JB_TYPE":"",
-				"Detail":"数百年前，长有三头的阿修罗王（梁家辉饰欲望之头、刘嘉玲饰谋略之头）决定发起毁灭天界之战，改变以善恶来决定生命轮转的自然法则。阿修罗王战败，失去洞察之头（吴磊饰），被打入炼狱界。百年后，阿修罗王欲再次发起攻天大战，但若要打开天界之门，他必须要找到洞察之头，并与之合体方能成功。 人界山村，牧羊少年如意（吴磊饰）突然被阿修罗王寻到，恍惚之中被带入阿修罗界。阿修罗王宫中，如意受到王者一般的礼遇，体验着各种前所未有的欲望。当他看到阿修罗王肆意摧残生命，并得知自己就是洞察之头的转世，要与阿修罗王合体毁灭天界时，他愤怒地逃离王宫。 美丽善良的阿修罗叛军女首领华蕊（张艺上饰）遵师所愿，守卫六界。她的出现改变了如意的命运，他在华蕊身上发现了一生真正的渴望——爱！在爱的激励下，如意找到了至善的力量，一举消灭了阿修罗王，挽救整个六界，成为新一代的阿修罗王，当世间一切欲望都能供他驱使之际，他却作出惊天之举……",
-				"time":"0",
-				"activityTime":"",
-				"picList":[
-
-					{
-						"LONG_NAME":"",
-						"SRC_CONT_ID":"",
-						"REDREICT_ID":"",
-						"Detail":"",
-						"REDREICT_URL":"",
-						"imgSrcV":"",
-						"imgSrcH":"",
-						"imgSrc":""
-					}
-				]
-			},
-			{
-				"name":"超人总动员2",
-				"LONG_NAME":"超人小儿子成主角",
-				"SRC_CONT_ID":"640494441",
+				"name":"阿尔法：狼伴归途",
+				"LONG_NAME":"弱肉强食史前大片",
+				"SRC_CONT_ID":"644812563",
 				"REDREICT_ID":"",
 				"miguScore":"8.0",
-				"imgSrcV":"/publish/poms/image/5500/494/148/201805221309_1_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/494/148/201805221309_2_HSJ720H.jpg",
-				"imgSrc":"/image/70/372/126.jpg",
+				"imgSrcV":"/publish/poms/image/5500/561/952/201808211625_p2530871439_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/561/952/201808211625_35_HSJ720H.jpg",
+				"imgSrc":"/image/70/430/882.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"深受喜爱的超人家族将在《超人总动员2》中强势回归，只不过这次站在聚光灯下的是弹力女超人海伦，而超能先生巴鲍勃则在家照料巴小倩和巴小飞，过起了“正常人”的居家生活。这一角色转换对于每个家庭成员来说都是艰难的，更何况他们都还没意识到宝宝巴小杰的超能力已经悄然增长。当剧中新反派开始酝酿一个狡诈危险的阴谋，超人家族必须联合酷冰侠的力量团结对外——然而即使各自都有超能力，真正做起来却是知易行难。",
+				"Detail":"故事发生于两万年前的欧洲北部，地球正处于弱肉强食的冰川时期。心地善良的男主角科达是部落首领的儿子，在一次部落集体狩猎中，科达不慎跌落悬崖，众人以为科达已死，但大难不死的科达被洪水卷走幸存下来，只身流落荒野。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -450,19 +301,109 @@
 				]
 			},
 			{
-				"name":"侏罗纪世界2",
-				"LONG_NAME":"史前拯救 惊险升级",
-				"SRC_CONT_ID":"635718961",
+				"name":"苏丹",
+				"LONG_NAME":"“猴神”为爱摔跤",
+				"SRC_CONT_ID":"628071088",
+				"REDREICT_ID":"",
+				"miguScore":"7.8",
+				"imgSrcV":"/publish/poms/image/5500/289/559/201808231457_p2529570494_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/289/559/201808231457_p2365841302_HSJ720H.jpg",
+				"imgSrc":"/image/70/430/881.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"来自印度北方小镇的苏丹遇见了摔角教练的女儿，苏丹为了心仪女孩，不仅开始学起摔角，在短时间内就获得地方冠军，展现了他的决心和天分。他不但娶得美人归，还和妻子一起代表印度参加奥运，但就在苏丹获得奥运金牌的同时，他却因为骄傲自大而失去了挚爱的家庭，唯一能赢回妻子芳心的办法，就是站回属于他的舞台。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"反贪风暴3",
+				"LONG_NAME":"古天乐命悬一线",
+				"SRC_CONT_ID":"639262822",
+				"REDREICT_ID":"",
+				"miguScore":"8.8",
+				"imgSrcV":"/publish/poms/image/5500/449/310/201808291734_0829173219_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/449/310/201808291734_11_HSJ720H.jpg",
+				"imgSrc":"/image/70/430/883.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"故事讲述ICAC (廉政公署) 陆志廉（古天乐饰），JFIU (联合财富情报组) 刘保强（张智霖饰）分别侦查贪污及洗黑钱案，但苦无线索，这时廉政公署L组 (内部纪律调查组) 程德明（郑嘉颖饰）收到举报，指陆志廉收贿1200万，陆无法辩解实时停职。刘发现陆被诬陷, 并跟一直调查的洗黑钱案有着千丝万缕关系，同时怀疑银行主任游子新（栢天男饰）协助罪恶集团洗黑钱；陆冒险搜集罪证却遭禁锢，命悬一线.......",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"传奇的诞生",
+				"LONG_NAME":"球王贝利的人生",
+				"SRC_CONT_ID":"645377251",
+				"REDREICT_ID":"",
+				"miguScore":"7.8",
+				"imgSrcV":"/publish/poms/image/5500/565/601/201808171350_p2531286907_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/565/601/201808171350_p2358523979_HSJ720H.jpg",
+				"imgSrc":"/image/70/427/762.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"讲述了球王贝利从一个普通的巴西贫民靠自己的努力，成为足球世界的最强者的故事。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"道高一丈",
+				"LONG_NAME":"扑朔迷离环环相扣",
+				"SRC_CONT_ID":"637901151",
 				"REDREICT_ID":"",
 				"miguScore":"8.9",
-				"imgSrcV":"/publish/poms/image/5500/373/006/201804241352_4545651651_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/373/006/201804241352_1_HSJ720H.jpg",
-				"imgSrc":"/image/70/381/768.jpg",
+				"imgSrcV":"/publish/poms/image/5500/400/250/201808030925_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/400/250/201808030925_1_HSJ720H.jpg",
+				"imgSrc":"/image/70/427/758.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"侏罗纪世界主题公园及豪华度假村被失控的恐龙们摧毁已有四年。如今，纳布拉尔岛已经被人类遗弃，岛上幸存的恐龙们在丛林中自给自足。当岛上的休眠火山开始活跃以后，欧文（克里斯·帕拉特 饰）与克莱尔（布莱丝·达拉斯·霍华德 饰）发起了一场运动，想要保护岛上幸存的恐龙们免于灭绝。欧文一心想要找到自己依然失踪在野外的迅猛龙首领布鲁，克莱尔如今也尊重起这些生物，以保护它们为己任。两人在熔岩开始喷发时来到了危险的小岛，他们的冒险也揭开了一个可能让地球回到史前时代般混乱秩序的阴谋。",
+				"Detail":"宋朝、刘海洋、黄天成是警校同窗，宋朝因犯错被开除，警察梦破灭。刘海洋、黄天成顺利毕业成为了真正的警察。被警校开除的宋朝受刘海洋之父刘守义之托，混进贯宇集团调查一桩纵火案。刘守义在跟宋朝接头时，被贯宇集团手下胡龙带人杀害，胡龙则在行凶时被刘守义开枪击伤后逃跑下落不明，宋朝被当成杀人疑凶而被迫踏上逃亡之路。刘海洋跟宋朝不仅是同学，更是妻子楚洁的前男友，新仇旧恨让刘海洋发下毒誓要将宋朝绳之以法。而此时，宋朝也在为脱罪积极调查真相，并找到昔日同窗黄天成寻求帮助，不料却在追逃过程中陷入更危险的境地，命悬一线之际，他们才发现这一切竟是一名叫胡紫薇的女人所为，而胡紫薇的背后隐藏着更大的阴谋与罪恶。光明与黑暗，正义与邪恶，扑朔迷离，环环相扣，最终“魔高一尺、道高一丈”。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -480,19 +421,19 @@
 				]
 			},
 			{
-				"name":"摩天营救",
-				"LONG_NAME":"昆凌霸气登场",
-				"SRC_CONT_ID":"635958316",
+				"name":"快把我哥带走",
+				"LONG_NAME":"奇葩兄妹爆笑日常",
+				"SRC_CONT_ID":"641847271",
 				"REDREICT_ID":"",
-				"miguScore":"9.0",
-				"imgSrcV":"/publish/poms/image/5500/376/546/201802261121_1_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/376/546/201802261121_1_HSJ720H.jpg",
-				"imgSrc":"/image/70/378/643.jpg",
+				"miguScore":"7.5",
+				"imgSrcV":"/publish/poms/image/5500/515/559/201808160923_p2531080870_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/515/559/201808160923_p2531080870_HSJ720H.jpg",
+				"imgSrc":"/image/70/421/424.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"在香港市中心，世界上最高、结构最复杂的摩天大楼遭到破坏，危机一触即发。威尔·索耶（道恩·强森 饰）的妻子萨拉（内芙·坎贝尔 饰）和孩子们在98层被劫为人质，直接暴露在火线上。威尔，这位战争英雄、前联邦调查局救援队员，作为大楼的安保顾问，却被诬陷纵火和谋杀。他必须奋力营救家人，为自己洗脱罪名，关乎生死存亡的高空任务就此展开",
+				"Detail":"时分与时秒是吵吵闹闹却又相互依恋的兄妹。哥哥时分极其不靠谱，但对妹妹无比疼爱，妹妹时秒看似暴力，时常暴揍哥哥，内心却极其依赖哥哥。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -510,19 +451,19 @@
 				]
 			},
 			{
-				"name":"金蝉脱壳2",
-				"LONG_NAME":"史泰龙重磅回归",
-				"SRC_CONT_ID":"639866606",
+				"name":"李宗伟：败者为王",
+				"LONG_NAME":"李宗伟的真实经历",
+				"SRC_CONT_ID":"642307914",
 				"REDREICT_ID":"",
-				"miguScore":"9.0",
-				"imgSrcV":"/publish/poms/image/5500/474/397/201806011554_1_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/474/397/201806011554_1_HSJ720H.jpg",
-				"imgSrc":"/image/70/373/442.jpg",
+				"miguScore":"7.8",
+				"imgSrcV":"/publish/poms/image/5500/522/226/201806211411_p2522263011_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/522/226/201806211411_p2522263011_HSJ720H.jpg",
+				"imgSrc":"/image/70/431/808.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"黄晓明是史泰龙饰演的雷·布雷斯林的弟子。某天，黄晓明在夜市被蒙面人挟持，关进了名为“Hades”的监狱。这座监狱关押着各型各色重型犯人，仿佛残酷人类战场。为了营救晓明，史泰龙叫上戴夫·巴蒂斯塔作为接应的助手，故意让自己被抓住后，深入这座监狱，与晓明互相配合，共同作战逃脱。",
+				"Detail":"出生在马来西亚大山脚的李宗伟，从小就立下了代表马来西亚打羽毛球的志向，家境的贫困和父亲的反对，没有让李宗伟停下脚步，他始终坚持梦想。加入国家队后，李宗伟面临更多挑战，更是遇到了自己一生的劲敌——林丹，他不断向着更高的目标出发，连续825天占据世界第一的位置，至今无人打破 。虽然他至今还没有一块奥运会金牌入账，但却诠释了一种叫做“李宗伟”的永不放弃精神。",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -540,19 +481,79 @@
 				]
 			},
 			{
-				"name":"您一定不要错过",
-				"LONG_NAME":"崔永元说幕后故事",
-				"SRC_CONT_ID":"642559994",
+				"name":"精灵旅社3",
+				"LONG_NAME":"百年单身狗遇真爱",
+				"SRC_CONT_ID":"642855207",
 				"REDREICT_ID":"",
-				"miguScore":"8.0",
-				"imgSrcV":"/publish/poms/image/5500/526/550/201806261308_1222222_HSJ720V.jpg",
-				"imgSrcH":"/publish/poms/image/5500/526/550/201806261308_1222222_HSJ720H.jpg",
-				"imgSrc":"/image/70/381/774.jpg",
+				"miguScore":"7.5",
+				"imgSrcV":"/publish/poms/image/5500/532/174/201808141320_p2530591543_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/532/174/201808141320_p2530591538_HSJ720H.jpg",
+				"imgSrc":"/image/70/417/534.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
 				"JB_TYPE":"",
-				"Detail":"大型文献纪录片《您一定不要错过》跟随真诚实在的崔永元领略黑白电影老胶片，看于洋、王晓棠、王心刚、恩和森、朱兰琪琪柯、葛根塔娜、刘世龙、谢飞导演的青春年华，穿越70年找回爷爷奶奶们被遗忘了的岁月。听经典好歌“敖包相会”“蒙古人”“嘎达梅林”“草原晨曲”看天上草原、万马奔腾、醉马豪情，断桥落马，我的黑骏马。解析成吉思汗成长，东归英雄长眠，嘎达梅林永生，额吉的3000孤儿，骆驼祥子和虎妞的爱情。看斯琴高娃、三宝、腾格尔、娜仁花、艾丽娅、涂们、宁才、巴音、巴德玛成为影帝影后，荣获集体演员“金鸡奖”的电影人生。一起告别难忘的八月，到成吉思汗水站饮一口清泉，上天边的老哨卡聆听古老的牧歌？？这么好的故事、这么好的音乐、这么好的电影，您一定不要错过！",
+				"Detail":"精灵旅社的主人德古拉和全体亲友回归银幕，在两部前作里，单亲父亲德古拉既和女儿一起收获美满家庭，也为怪物与人类的友谊做出历史意义的贡献，但故事没那么快迎来完美大结局：在新一集里，工作狂德古拉终于身心疲惫，女儿梅韦斯为老父亲专门安排了一次豪华游轮度假游放松心情，也因为第一次跟人类一起出游，怪物家族发生了一系列爆笑故事。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"巨齿鲨",
+				"LONG_NAME":"海底侏罗纪",
+				"SRC_CONT_ID":"635958797",
+				"REDREICT_ID":"",
+				"miguScore":"8.5",
+				"imgSrcV":"/publish/poms/image/5500/376/555/201807271404_984984_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/376/555/201807271404_5_HSJ720H.jpg",
+				"imgSrc":"/image/70/417/496.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"一项由中国主导的国际科研项目，正在马里亚纳海沟深处进行时，遭遇未知生物攻击，科研人员被困海底。前美国海军陆战队深海潜水专家乔纳斯·泰勒受命前往营救，再度遭遇数年前曾经在深海给自己留下终身难以磨灭记忆的史前生物巨齿鲨。乔纳斯联手科研项目中的中国女科学家张苏茵成功营救了被困人员，但营救行动却意外造成了巨齿鲨逃离深海。当史前巨兽重返浅海，人类将为自己对大自然的贪婪付出惨重的代价......",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"一出好戏",
+				"LONG_NAME":"黄渤舒淇孤岛逆袭",
+				"SRC_CONT_ID":"639584609",
+				"REDREICT_ID":"",
+				"miguScore":"8.5",
+				"imgSrcV":"/publish/poms/image/5500/464/712/201808141344_p2529571873_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/464/712/201808141344_p2530593929_HSJ720H.jpg",
+				"imgSrc":"/image/70/421/423.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"马进欠下债务，与远房表弟小兴在底层社会摸爬滚打，习惯性的买彩票，企图一夜爆富，并迎娶自己的同事姗姗。一日，公司全体员工出海团建，途中，马进收到了彩票中头奖的信息，六千万！就在马进狂喜自己翻身的日子终于到来之际，一场突如其来的滔天巨浪打破了一切。苏醒过来的众人发现身处荒岛，丧失了一切与外界的联系……",
 				"time":"0",
 				"activityTime":"",
 				"picList":[
@@ -578,7 +579,7 @@
 				"imgSrcV":"",
 				"imgSrcH":"",
 				"imgSrc":"/image/70/379/192.jpg",
-				"wapUrl":"",
+				"wapUrl":"/lovev/miguMovie/bookTicket/film.jsp",
 				"goodsUrl":"/publish/clt/resource/migumovie4/filmTicket/filmTicketMain.jsp",
 
 				"JB_TYPE":"",
@@ -601,30 +602,30 @@
 			}]
 	},
 	{
-		"name":"暑期大排档",
+		"name":"即将上映/test/",
 		"LONG_NAME":"",
-		"REDREICT_ID":"70059673",
-		"urlName":"danmu",
+		"REDREICT_ID":"70037539",
+		"urlName":"shuguntu",
 		"miguScore":"7.0",
 		"imgSrcV":"",
 		"imgSrcH":"",
 		"imgSrc":"",
 
 		"SRC_CONT_ID":"",
-		"showCount":"",
+		"showCount":"31",
 		"list":[
 
 			{
-				"name":"小图",
-				"LONG_NAME":"",
+				"name":"影",
+				"LONG_NAME":"孙俪邓超三角纠葛",
 				"SRC_CONT_ID":"",
-				"REDREICT_ID":"70059676",
+				"REDREICT_ID":"",
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"",
-				"wapUrl":"",
-				"goodsUrl":"",
+				"imgSrc":"/image/70/423/181.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=645862973&cid=645862973",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=645862973",
 
 				"JB_TYPE":"",
 				"Detail":"",
@@ -633,26 +634,56 @@
 				"picList":[
 
 					{
-						"name":"「药神」再度圈粉，从关谷神奇到吕受益，他用了五年",
 						"LONG_NAME":"",
 						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
 						"Detail":"",
-						"miguScore":"7.0",
+						"REDREICT_URL":"",
 						"imgSrcV":"",
 						"imgSrcH":"",
-						"imgSrc":"/image/70/382/888.png"
-
-					}]
+						"imgSrc":""
+					}
+				]
 			},
 			{
-				"name":"大图",
-				"LONG_NAME":"",
+				"name":"反贪风暴3",
+				"LONG_NAME":"男神花式缉凶",
 				"SRC_CONT_ID":"",
-				"REDREICT_ID":"70059675",
+				"REDREICT_ID":"",
 				"miguScore":"7.0",
 				"imgSrcV":"",
 				"imgSrcH":"",
-				"imgSrc":"",
+				"imgSrc":"/image/70/423/184.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=641002458&cid=641002458",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=641002458",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"李茶的姑妈",
+				"LONG_NAME":"沈腾“首富”变“牧师”",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/423/188.jpg",
 				"wapUrl":"",
 				"goodsUrl":"",
 
@@ -663,16 +694,736 @@
 				"picList":[
 
 					{
-						"name":"姜文彭于晏廖凡三大硬汉同框，荷尔蒙爆屏，你最期待谁？",
-						"LONG_NAME":"2018-07-13全国上映",
-						"SRC_CONT_ID":"638125368",
-						"Detail":"北洋年间，北京以北。习武少年李天然目睹师兄朱潜龙勾结日本特务根本一郎，杀害师父全家。李天然侥幸从枪下逃脱，被美国医生亨德勒救下。李天然伤愈后，赴美学医多年，并同时接受特工训练。1937年初，李天然突然受命回国。“七七事变”前夜，北平，这座国际间谍之城，华洋混杂，山头林立。每时每刻充满诱惑与杀机。一心复仇的李天然，并不知道自己被卷入了一场阴谋，亦搅乱了一盘棋局。彼时彼刻，如同李小龙闯进了谍都卡萨布兰卡。前朝武人蓝青峰，神秘莫测，与朱潜龙、根本一郎关系紧密，更与亨德勒情同手足。是敌是友？面目不清。随着中日危机不断升级，各方博弈愈演愈烈。多次为谎言蛊惑、错失时机的李天然，终于下定决心，在红颜帮助下开启复仇行动。且看负有国恨家仇且智勇双全之李天然，如何荡涤这摊污泥浊水！",
-						"miguScore":"8.5",
-						"imgSrcV":"/publish/poms/image/5500/405/960/201807011405_1_HSJ720V.jpg",
-						"imgSrcH":"/publish/poms/image/5500/405/960/201807011405_xbyz3_HSJ720H.jpg",
-						"imgSrc":"/image/70/382/950.jpg"
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"如影随心",
+				"LONG_NAME":"为爱发声 相遇七夕",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/366/97.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=639167044&cid=639167044",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=639167044",
 
-					}]
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"黄金兄弟",
+				"LONG_NAME":"郑伊健陈小春重聚",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/393/115.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=643675651",
+				"goodsUrl":"/publish/clt/resource/migumovie4/news/atlasNewsDetail.jsp?nodeId=643675651",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"快把我哥带走",
+				"LONG_NAME":"坑妹狂魔 爆笑上映",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/366/110.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=640244739&cid=640244739",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=640244739",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"胖子行动队",
+				"LONG_NAME":"包贝尔一夜爆肥",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/378/427.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=642849471&cid=642849471",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=642849471",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"兄弟班",
+				"LONG_NAME":"聚焦叛逆青春",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/365/708.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=641961039",
+				"goodsUrl":"/publish/clt/resource/migumovie4/news/atlasNewsDetail.jsp?nodeId=641961039",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"江湖儿女",
+				"LONG_NAME":"贾樟柯口碑新作",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/368/830.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=641002587&cid=641002587",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=641002587",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"玛雅蜜蜂历险记",
+				"LONG_NAME":"勇敢的做自己",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/393/143.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=642234529&cid=642234529",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=642234529",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"云南虫谷",
+				"LONG_NAME":"经典鬼吹灯系列",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/377/421.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=640509089",
+				"goodsUrl":"/publish/clt/resource/migumovie4/news/atlasNewsDetail.jsp?nodeId=640509089",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"神秘世界历险记4",
+				"LONG_NAME":"经典IP磨砺归来",
+				"SRC_CONT_ID":"639584211",
+				"REDREICT_ID":"",
+				"miguScore":"7.1",
+				"imgSrcV":"/publish/poms/image/5500/464/697/201808141340_p2528380655_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/464/697/201808141340_p2528380655_HSJ720H.jpg",
+				"imgSrc":"/image/70/365/686.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"雨果的妈妈在雨果儿时离奇失踪，爸爸王大山与雨果探求真相时惊奇地发现，雨果妈妈当年的工作笔记上有神秘世界族印的符号。族长啦啦一直跟随狐大师苦练法术，在练习吐纳心法时，啦啦却看到了一个不祥的画面，这让啦啦坐立不安。雨果和大山来到神秘世界参加熊大叔的婚礼，一只神经兮兮的企鹅突然闯入婚礼现场，告知众人一只恶龙闯入了神秘世界的禁区“圣界”，神秘世界即将毁灭！企鹅说这都是因为曾经有人类闯入圣界，从而给神秘世界带来了灾难。雨果坚信企鹅口中的人类一定就是自己的妈妈，于是不顾啦啦的劝阻，执意要前往圣界，希望可以找到妈妈的线索，但这一切并不像她想象的那样简单。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"封门笔仙",
+				"LONG_NAME":"中国第一鬼村",
+				"SRC_CONT_ID":"638932791",
+				"REDREICT_ID":"",
+				"miguScore":"9.1",
+				"imgSrcV":"/publish/poms/image/5500/432/130/201803201314_p2508084860_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/432/130/201803201314_p2508084860_HSJ720H.jpg",
+				"imgSrc":"/image/70/365/698.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"　　方彬女友安妮前往一度震惊全国的闹鬼村落封门村做探险直播，并在当地发现了什么可怕的真相。直播画面戛然而止，而女友则下落不明。为找回女友安妮，方彬约上室友启程前往封门，路上还遇上前来寻找安妮的网站负责人周闰发和他的助理及安妮的两个闺蜜。杳无人迹的封门村，遗留下许多神秘诡异的物件。夜幕降临，鬼影幢幢，这群人将经历最为恐怖的夜晚……",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"酥油",
+				"LONG_NAME":"唯美藏地情歌",
+				"SRC_CONT_ID":"625443936",
+				"REDREICT_ID":"",
+				"miguScore":"7.8",
+				"imgSrcV":"/publish/poms/image/5500/238/108/201803141544_9e471782a8cd2634772bd190a7d1dfdc3313163_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/238/108/201803141544_3_HSJ720H.jpg",
+				"imgSrc":"/image/70/368/803.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"电影《酥油》改编自作家江觉迟的同名畅销小说，小说《酥油》讲述了汉地女孩梅朵与康巴汉子月光之间的传奇爱情，描绘了恢弘壮丽的西藏自然风光及绚烂多姿的风土人情，感动了亿万读者。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"人间·喜剧",
+				"LONG_NAME":"麻花式喜剧",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/352/681.jpg",
+				"wapUrl":"https://movie.miguvideo.com/lovev/subject/subject.jsp?n=639788645",
+				"goodsUrl":"/publish/clt/resource/migumovie4/news/atlasNewsDetail.jsp?nodeId=639788645",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"新哥斯拉",
+				"LONG_NAME":"庵野秀明新作",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/379/143.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=641437349&cid=641437349",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=641437349",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"大侦探霍桑",
+				"LONG_NAME":"中国版福尔摩斯",
+				"SRC_CONT_ID":"626144127",
+				"REDREICT_ID":"",
+				"miguScore":"9.1",
+				"imgSrcV":"/publish/poms/image/5500/235/062/201805241422_dzt_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/235/062/201805241422_dzt_HSJ720H.jpg",
+				"imgSrc":"/image/70/351/673.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"本片改编自“中国侦探小说第一人”程小青的《霍桑探案集》。在中俄边境有一个富裕而神秘的城市——冰城，发生了一起离奇的谋杀案。扑朔迷离的线索，身份不明的各路人马都让霍桑的探案之旅充满了未知和险阻，最大嫌疑犯——怪盗江南燕出神入化的易容技巧更是让整个案件变得复杂起来，霍桑究竟 能否在一系列的危机之下查明真相并全身而退呢？",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"堕落天使",
+				"LONG_NAME":"暗黑系列 浪漫来袭",
+				"SRC_CONT_ID":"625571789",
+				"REDREICT_ID":"",
+				"miguScore":"5.2",
+				"imgSrcV":"/publish/poms/image/5500/239/246/201805221657_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/239/246/201805221657_PPPPPsiji_HSJ720H.jpg",
+				"imgSrc":"/image/70/351/616.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"率领众天使背叛上帝的撒旦，在被打入地狱后仍不断与天堂发生冲突。当时，所有的天使都必须选边站，但只有两个天使，他们既不站在上帝这边，也不愿意投效撒旦，因为，他们相爱了……拒绝选边站的天使，同时触怒了上帝与撒旦，于是两人同时受到来自天堂与地狱的诅咒－－丹尼尔被打入人间，变成永生不死的17岁高校男生；而露西也同时被诅咒为凡人，注定在17岁那年与丹尼尔相遇、为他而死……生生世世看着自己的挚爱不断因为自己而死亡，丹尼尔费尽心思想要躲避每一世的露西。可是，上帝要他们相遇、撒旦却要他们死别……",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"边境杀手2",
+				"LONG_NAME":"边境战士",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/351/594.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=6407993643&cid=640799364",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=640799364",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"暮光巴黎",
+				"LONG_NAME":"暗黑系列 浪漫童话",
+				"SRC_CONT_ID":"631539483",
+				"REDREICT_ID":"",
+				"miguScore":"8.8",
+				"imgSrcV":"/publish/poms/image/5500/342/461/201803091114_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/342/461/201803091114_mgbl_HSJ720H.jpg",
+				"imgSrc":"/image/70/393/614.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"一个发生在“浪漫之都”巴黎的吸血族故事，讲述爱与永恒不老的暗黑童话。法国吸血贵族“K”在19世纪电影诞生之初便创立了电影公司，家族成员们各自担任导演、摄影师等不同职位，寻找欲望强盛的人类，邀请至古堡拍戏，让人类表演心底的欲望之际，吸食他们的欲望。2017年，巴黎的某个午夜，吸血贵族之一Francois，遇上了一个中国留学生林佩欣，那刻起，一场跨越百年的爱情故事揭开帷幕。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"镰仓物语",
+				"LONG_NAME":"堺雅人奇幻侦探",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/369/897.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=640910489&cid=640910489",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=640910489",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"昨日青空",
+				"LONG_NAME":"毕业季致敬青春",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/394/49.jpg",
+				"wapUrl":"http://movie.miguvideo.com/lovev/miguMovie/detail/trailer.jsp?contentId=641117281&cid=641117281",
+				"goodsUrl":"/publish/clt/resource/migumovie4/detail/prevueDetail.jsp?nodeId=641117281",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"",
+				"LONG_NAME":"",
+				"SRC_CONT_ID":"",
+				"REDREICT_ID":"",
+				"miguScore":"7.0",
+				"imgSrcV":"",
+				"imgSrcH":"",
+				"imgSrc":"/image/70/379/193.jpg",
+				"wapUrl":"",
+				"goodsUrl":"/publish/clt/resource/migumovie4/filmTicket/filmTicketMain.jsp",
+
+				"JB_TYPE":"",
+				"Detail":"",
+				"time":"",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"碟仙实录",
+				"LONG_NAME":"人鬼混杂 炼狱古宅",
+				"SRC_CONT_ID":"627029181",
+				"REDREICT_ID":"",
+				"miguScore":"8.6",
+				"imgSrcV":"/publish/poms/image/5500/199/921/201805301707_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/199/921/201805301707_1_HSJ720H.jpg",
+				"imgSrc":"/image/70/351/597.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"才华横溢但却终日不得志的电影导演白天浩（齐炫宇 饰）筹划在一个古宅中拍摄民国惊悚题材电影，电影主角是一位民国时期色艺双绝的戏子，她做了胡老爷的四姨太之后，被嫉妒她的其她三个姨太太残忍杀害，四姨太最终化为千年厉鬼伺机开始了复仇。 电影的四位候选女主角梦娜（李漫荻 饰）、李菲儿（马丁 饰）、雨欣（谢易真 饰）、李倩（许娜 饰）被白天浩带到古宅拍摄地体验生活，拍摄写真。白天浩希望她们拿出最好的状态一起竞争女主角的位置。本来是好姐妹的四人，为了名利开始了明争暗斗，同父异母的姐妹梦娜和李菲儿也开始姐妹相残。最终四个女孩不惜开始碟仙游戏，想请出四姨太的鬼魂来选择到底谁更适合扮演她，谁知请“仙”容易送“仙”难，人心在蛊惑和利诱之下终变得深不见底，荒郊的古宅也变成了人鬼混杂的炼狱……而这一幕幕追魂索命的恐惧与杀戮正是白天浩想要的故事场景，电影与现实，亲人与仇人，过去与未来，命运的界限开始变得模糊，又有谁可以逃出生天？",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"冰海陷落",
+				"LONG_NAME":"陷落系列 回归之作",
+				"SRC_CONT_ID":"636602469",
+				"REDREICT_ID":"",
+				"miguScore":"7.8",
+				"imgSrcV":"/publish/poms/image/5500/384/790/201808031547_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/384/790/201808031547_1_HSJ720H.jpg",
+				"imgSrc":"/image/70/399/235.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"俄罗斯总统在一场军事行动遭囚禁，一名疯狂的俄罗斯将军妄图挑起第三次世界大战，杰拉德·巴特勒饰演的潜水艇船长将与一一支美军海豹突击队合作，展开对俄罗斯总统的营救。萨姆·沃辛顿饰演海豹突击队小组的指挥官。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"武林怪兽",
+				"LONG_NAME":"魔幻画风 奇幻戏码",
+				"SRC_CONT_ID":"631919424",
+				"REDREICT_ID":"",
+				"miguScore":"8.9",
+				"imgSrcV":"/publish/poms/image/5500/350/119/201805301050_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/350/119/201805301050_1_HSJ720H.jpg",
+				"imgSrc":"/image/70/351/757.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"几个绿林好汉准备抢劫官府搜刮的民脂民膏，他们定好行动计划和各自分工，然而从开始就分歧不断，中途又陆续遭遇不速之客，众好汉渐次萌生退意，却发现毫无退路，一只不明生物早已盯上这伙人。",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
+			},
+			{
+				"name":"盗潜黄金城",
+				"LONG_NAME":"吕克贝松新片",
+				"SRC_CONT_ID":"637609146",
+				"REDREICT_ID":"",
+				"miguScore":"8.8",
+				"imgSrcV":"/publish/poms/image/5500/390/959/201803201404_1_HSJ720V.jpg",
+				"imgSrcH":"/publish/poms/image/5500/390/959/201803201404_3_HSJ720H.jpg",
+				"imgSrc":"/image/70/351/634.jpg",
+				"wapUrl":"",
+				"goodsUrl":"",
+
+				"JB_TYPE":"",
+				"Detail":"作为美国最顶尖的武装部队，“海豹突击队”每次执行任务都面临着极高的风险。这一次， 他们在一座小镇的湖底发现了二战时埋藏的黄金，价值数亿美元。天价宝藏的消息不胫而 走，引得各方势力前来争抢，“海豹突击队”秘密出击，全副武装潜入黄金城下。就在紧 要关头，犯罪团伙发现了他们的行踪，冲突一触即发，队员们面临着生与死的考验......",
+				"time":"0",
+				"activityTime":"",
+				"picList":[
+
+					{
+						"LONG_NAME":"",
+						"SRC_CONT_ID":"",
+						"REDREICT_ID":"",
+						"Detail":"",
+						"REDREICT_URL":"",
+						"imgSrcV":"",
+						"imgSrcH":"",
+						"imgSrc":""
+					}
+				]
 			}]
 	}
 ]
